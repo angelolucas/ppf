@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{w2l6:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),l=t.n(a),r=t("Bl7J"),u=t("0YEp"),o=t("FT44");n.default=function(){return l.a.createElement(r.a,null,l.a.createElement(u.a,null,l.a.createElement("h1",null,"Page not found"),l.a.createElement("p",null,"No matter where you are in your health and fitness journey, we take you to your next level!"),l.a.createElement(o.a,null,"Start now")))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-f96b86260c11d2e58d62.js.map
