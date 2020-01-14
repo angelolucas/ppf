@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./src/pages/404.js"],"names":["window","location","replace"],"mappings":"4GAAe,4BAAMA,OAAOC,SAASC,QAAQ","file":"component---src-pages-404-js-b23de42a8514b4653f87.js","sourcesContent":["export default () => window.location.replace('/')\n"],"sourceRoot":""}
